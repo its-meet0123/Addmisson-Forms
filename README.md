@@ -7,4 +7,5 @@ some options (visa information, academy information and attach documents) are st
   step-2    {155 to 305} <br>
 visa information and academy information have added. <br>
 step-3     {306 to 372} <br>
-form compelet.
+form compelet.<br>
+useing date picker in date of birth option
